@@ -44,8 +44,6 @@ Quality of life: Evaluating the number of schools, healthcare facilities, restau
 Codelabs link: https://codelabs-preview.appspot.com/?file_id=1v2yOF9C3T1BWiWywbozyqzj8fuiT6ihANlGSZGJRyN8#0 <br>
 
 
-## File Structure
-
 ## Attestations
 WE ATTEST THAT WE HAVEN’T USED ANY OTHER STUDENTS’ WORK IN OUR ASSIGNMENT AND ABIDE BY THE POLICIES LISTED IN THE STUDENT HANDBOOK<br>
 <br>
