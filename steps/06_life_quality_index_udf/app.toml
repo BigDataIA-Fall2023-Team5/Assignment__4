@@ -2,16 +2,16 @@ snowsql_config_path = "~/.snowsql/config"
 snowsql_connection_name = "dev"
 
 [default]
-input_parameters = "()"
+input_parameters = "(input_geo_id string, state string, city string)"
 return_type = "string"
 file = "app.zip"
-name = "orders_update_sp"
+name = "life_quality_index_udf"
 handler = "app.main"
 execute_as_caller = true
 
 [dev]
-database = "HOL_DB"
-schema = "HARMONIZED"
-warehouse = "HOL_WH"
-role = "HOL_ROLE"
+database = "BIG_DB"
+schema = "ANALYTICS"
+warehouse = "BIG_WH"
+role = "BIG_ROLE"
 overwrite = true

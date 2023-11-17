@@ -2,16 +2,16 @@ snowsql_config_path = "~/.snowsql/config"
 snowsql_connection_name = "dev"
 
 [default]
-input_parameters = "()"
+input_parameters = "(input_geo_id string)"
 return_type = "string"
 file = "app.zip"
-name = "daily_city_metrics_update_sp"
+name = "buying_vs_renting_udf"
 handler = "app.main"
 execute_as_caller = true
 
 [dev]
-database = "HOL_DB"
+database = "BIG_DB"
 schema = "ANALYTICS"
-warehouse = "HOL_WH"
-role = "HOL_ROLE"
+warehouse = "BIG_WH"
+role = "BIG_ROLE"
 overwrite = true

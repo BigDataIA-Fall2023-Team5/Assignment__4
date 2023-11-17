@@ -2,16 +2,16 @@ snowsql_config_path = "~/.snowsql/config"
 snowsql_connection_name = "dev"
 
 [default]
-input_parameters = "(temp_f float)"
-return_type = "float"
+input_parameters = "(geo_name string, city string, year string)"
+return_type = "array"
 file = "app.zip"
-name = "fahrenheit_to_celsius_udf"
+name = "crime_to_unemployment_udf"
 handler = "app.main"
 execute_as_caller = true
 
 [dev]
-database = "HOL_DB"
+database = "BIG_DB"
 schema = "ANALYTICS"
-warehouse = "HOL_WH"
-role = "HOL_ROLE"
+warehouse = "BIG_WH"
+role = "BIG_ROLE"
 overwrite = true
