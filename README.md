@@ -15,10 +15,10 @@ Interactive Elements: To engage users and facilitate a deeper understanding of t
 
 The primary objective of this project is to develop an advanced, user-friendly solution that aids individuals and families in identifying the most suitable relocation destination. This decision-support system will facilitate informed decision-making by analyzing key factors that influence relocation choices.
 
-Key Factors for Analysis:
-Crime and Unemployment rate: Understanding local job market stability and opportunities is crucial for ensuring economic security in the new location. Evaluating the safety and security of different areas to ensure the well-being of relocators.
-Real Estate Prices: Assessing housing affordability is vital for financial planning and determining the cost of living in potential relocation areas.
-Quality of life: Evaluating the number of schools, healthcare facilities, restaurants, hires, and layoffs in a location to understand the quality of life in that area.
+### Key Factors for Analysis:
+#### Crime and Unemployment rate: Understanding local job market stability and opportunities is crucial for ensuring economic security in the new location. Evaluating the safety and security of different areas to ensure the well-being of relocators.
+#### Real Estate Prices: Assessing housing affordability is vital for financial planning and determining the cost of living in potential relocation areas.
+#### Quality of life: Evaluating the number of schools, healthcare facilities, restaurants, hires, and layoffs in a location to understand the quality of life in that area.
 
 
 
