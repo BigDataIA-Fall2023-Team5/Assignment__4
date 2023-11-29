@@ -1,7 +1,7 @@
 # LocateSmart AI: Discover Your Ideal Place to Live
 
 ## Assignment 4
-Streamlit App link: 
+[![IMAGE ALT TEXT HERE](Placeholder.png)](https://www.youtube.com/watch?v=aejwBV7ii6c) 
 <br>
 
 The design of the platform will prioritize user-friendliness, catering to a broad spectrum of users with varying levels of expertise and background in financial and economic data. This focus on ease of use is crucial, as it ensures that the platform is not only accessible but also practical for a diverse audience. To achieve this, several key design principles and features will be implemented:
@@ -26,12 +26,19 @@ The primary objective of this project is to develop an advanced, user-friendly s
 <br>
 
 ## Architecture
+![image](https://github.com/BigDataIA-Fall2023-Team5/Assignment__4/assets/114553498/e158cd0c-af81-462e-8b7e-66d0bbcc1b8d)
 
 <br>
 <br>
 <br>
 
+## Part A
+<br>
+Anamika: https://github.com/anamikabharali/sfguide-data-engineering-with-snowpark-python <br>
+Saniya: https://github.com/saniyakapur/sfguide-data-engineering-with-snowpark-python <br>
+Shruti: https://github.com/mundargishruti/sfguide-data-engineering-with-snowpark-python <br>
 
+<br>
 ## Resources used
 <br>
 1. https://app.snowflake.com/marketplace/providers/GZTSZAS2KCS/Cybersyn%2C%20Inc  <br>
