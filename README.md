@@ -1,9 +1,12 @@
 # LocateSmart AI: Discover Your Ideal Place to Live
 
 ## Assignment 4
-[![Youtube Link: ](images/Youtube.png)](https://www.youtube.com/watch?v=aejwBV7ii6c) 
 <br>
+<br>
+[![IMAGE ALT TEXT HERE](images/Youtube.png)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
+<br>
+<br>
 The design of the platform will prioritize user-friendliness, catering to a broad spectrum of users with varying levels of expertise and background in financial and economic data. This focus on ease of use is crucial, as it ensures that the platform is not only accessible but also practical for a diverse audience. To achieve this, several key design principles and features will be implemented:
 
 Intuitive Interface: The platform will feature an interface that is intuitive and easy to navigate. This means that users can find what they are looking for quickly and without confusion. The layout will be organized logically, with clear labels and a straightforward menu structure.
